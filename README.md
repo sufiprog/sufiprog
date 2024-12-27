@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## 🚀 About Me
 
-- 🎓 I'm currently a student/graduate in [Your Major or Field]
+- 🎓 I'm currently a student in Aligarh Institute of Technology
 - 🌱 I’m currently learning Next.js, React, GSAP, MongoDB, and Prisma
 - 💼 I’m looking to collaborate on projects related to web development and open source contributions
-- 📝 I regularly write articles on [Your Blog or Medium link]
+- 📝 I regularly write articles on [https://medium.com/@sufiprogg]
 - 💬 Ask me about web development, JavaScript frameworks, and database management
-- 📫 How to reach me: [your email or contact info]
-- ⚡ Fun fact: I love exploring new technologies and building creative web applications
+- 📫 How to reach me: [sufidemo@gmail.com]
+- ⚡ Fun fact: I love exploring new technologies, building creative web applications, and playing chess.
 
 ## 🛠️ Technologies & Tools
 
@@ -28,22 +28,18 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-- Personal Website: [Your Website](https://yourwebsite.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sufiprog)
+- Medium: [Medium](https://medium.com/@sufiprogg)
+- Personal Website: [My Website](https://sufyancode.me)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📚 Projects
 
 Here are a few projects I've been working on:
 
-- [Project 1](https://github.com/sufiprog/project1): A brief description of what this project does and why it's useful.
-- [Project 2](https://github.com/sufiprog/project2): A brief description of what this project does and why it's useful.
-- [Project 3](https://github.com/sufiprog/project3): A brief description of what this project does and why it's useful.
+- [Google Docs Clone](https://docs-clone-three.vercel.app/)
+- [Blog Website with Admin Panel](https://sufi-blog.vercel.app/)
+- [Booking Apoointment Frotned](https://github.com/sufiprog/testing)
 
 Feel free to check out my repositories and contribute if you'd like!
 
