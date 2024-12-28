@@ -1,7 +1,6 @@
 # Hi there, I'm Sufi! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here's a bit about me:
-
+A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@javascriptmastery)
 ## 🚀 About Me
 
 - 🎓 I'm currently a student in Aligarh Institute of Technology
