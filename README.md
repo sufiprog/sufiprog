@@ -3,6 +3,8 @@
 A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@javascriptmastery)
 ## 🚀 About Me
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="775ff3e7-d7b8-4322-9a8a-ed9fd7aa60cd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 - 🎓 I'm currently a student in Aligarh Institute of Technology
 - 🌱 I’m currently learning Next.js, React, GSAP, MongoDB, and Prisma
 - 💼 I’m looking to collaborate on projects related to web development and open source contributions
