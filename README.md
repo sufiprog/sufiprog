@@ -16,10 +16,6 @@ A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@
 
 
 
-## Github Achievements🏆
-![GitHub Foundation Badge](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
-
-
 
 ## 🛠️ Technologies & Tools
 
@@ -31,9 +27,9 @@ A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
+## Github Achievements🏆
+![GitHub Foundation Badge](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
 
-![Sufi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufiprog&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
@@ -41,14 +37,6 @@ A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@
 - Medium: [Medium](https://medium.com/@sufiprogg)
 - Personal Website: [My Website](https://sufyancode.me)
 
-
-## 📚 Projects
-
-Here are a few projects I've been working on:
-
-- [Google Docs Clone](https://docs-clone-three.vercel.app/)
-- [Blog Website with Admin Panel](https://sufi-blog.vercel.app/)
-- [Booking Apoointment Frotned](https://github.com/sufiprog/testing)
 
 Feel free to check out my repositories and contribute if you'd like!
 
