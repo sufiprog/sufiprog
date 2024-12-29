@@ -3,6 +3,7 @@
 A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@javascriptmastery)
 ## 🚀 About Me
 
+![GitHub Foundation Badge](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
 
 
 - 🎓 I'm currently a student in Aligarh Institute of Technology
