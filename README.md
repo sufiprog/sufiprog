@@ -14,8 +14,12 @@ A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@
 - 📫 How to reach me: [sufidemo@gmail.com]
 - ⚡ Fun fact: I love exploring new technologies, building creative web applications, and playing chess.
 
+
+
 Github Achievements🏆
-![GitHub Foundation Badge](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
+[GitHub Foundation Badge](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
+
+
 
 ## 🛠️ Technologies & Tools
 
