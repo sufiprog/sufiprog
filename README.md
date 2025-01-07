@@ -33,7 +33,7 @@ A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@
 
 ## 📫 Get in Touch
 
-![SufiProg Muhammad Sufyan]([https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png](https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/3a26c77af0bd1e918dc3c1d211090cef-1736178208186/c733b6b9-9da4-400b-a69a-3a289fe0f6db.png))
+![SufiProg Muhammad Sufyan](https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/3a26c77af0bd1e918dc3c1d211090cef-1736178208186/c733b6b9-9da4-400b-a69a-3a289fe0f6db.png)
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sufiprog)
 - Medium: [Medium](https://medium.com/@sufiprogg)
