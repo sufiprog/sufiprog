@@ -1,6 +1,5 @@
 # Hi there, I'm Sufi! 👋
 
-A big fan of Adrian who is the founder of [JS Mastery](https://www.youtube.com/@javascriptmastery)
 ## 🚀 About Me
 
 
