@@ -26,7 +26,6 @@
 
 ## 📧 Get in Touch
 
-![SufiProg Muhammad Sufyan](../assets/sufi-main-cropped.png)
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sufiprog)
 - Medium: [Medium](https://medium.com/@sufiprogg)
