@@ -1,9 +1,6 @@
 # Hi there, I'm Sufi! 👋
 
 ## 🚀 About Me
-
-- 🎓 I'm currently a student at Aligarh Institute of Technology
-- 🌱 I’m currently learning Next.js, React, GSAP, MongoDB, and Prisma
 - 💼 I’m looking to collaborate on projects related to web development and open source contributions
 - 📝 I regularly write articles on [Medium](https://medium.com/@sufiprogg)
 - 💬 Ask me about web development, JavaScript frameworks, and database management
@@ -34,8 +31,6 @@
 
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sufiprog)
-- Medium: [Medium](https://medium.com/@sufiprogg)
-- Personal Website: [My Website](https://sufyancode.me)
 
 Feel free to check out my repositories and contribute if you'd like!
 
