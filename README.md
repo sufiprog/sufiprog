@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 - 💼 I’m looking to collaborate on projects related to web development and open source contributions
-- 📝 I regularly write articles on [Medium](https://medium.com/@sufiprogg)
 - 💬 Ask me about web development, JavaScript frameworks, and database management
 - 📧 How to reach me: [sufidemo@gmail.com](mailto:sufidemo@gmail.com)
 - ⚡ Fun fact: I love exploring new technologies, building creative web applications, and playing chess.
@@ -28,9 +27,6 @@
 ![GitHub Foundation Badge](https://img.shields.io/badge/-GitHub%20Foundation-333333?style=flat&logo=github)
 
 ## 📧 Get in Touch
-
-
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sufiprog)
 
 Feel free to check out my repositories and contribute if you'd like!
 
